@@ -17,9 +17,9 @@ The following **required** features are completed:
 
 The following **bonus** features are implemented:
 
-- [ ] Applies different font(s). 
-- [ ] Applies border and margins. 
-- [ ] DESCRIBE ANY OTHER FEATURES HERE. 
+- [ ] Applies different font(s). (0.5 pt)
+- [ ] Applies border and margins. (0.5 pt)
+- [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
 

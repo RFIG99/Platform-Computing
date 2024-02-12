@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(223, 207, 190);
+}
+
+h1 
+{
+  color: LightSeaGreen;
+  text-align: center;
+  font-size: 30px;
+}
+
+.paragraph
+{
+	font-size: 20x; 
+	border: 15px ridge LightSeaGreen;
+	margin-left: 10px;
+	text-align : start;
+}
+
+.git
+{
+	text-align: end;
+}
