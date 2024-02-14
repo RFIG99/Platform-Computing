@@ -25,6 +25,10 @@ The following **bonus** features are implemented:
 
 <img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
+<img src="about_me_paragraph_and_header_screen_shot.PNG" title='header'/>
+<img src="about_me_picture_and_link.PNG" title='picture'/>
+<img src="about_me_tab.PNG" title='tab'/>
+
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
