@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<!--img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' -->
 
 <img src="about_me_paragraph_and_header_screen_shot.PNG" title='header'/>
 <img src="about_me_picture_and_link.PNG" title='picture'/>
