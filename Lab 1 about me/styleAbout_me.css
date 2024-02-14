@@ -2,22 +2,50 @@ body {
   background-color: rgb(223, 207, 190);
 }
 
-h1 
+.mainHDR
 {
+  font-family: 'Impact', fantasy;
   color: LightSeaGreen;
   text-align: center;
   font-size: 30px;
+  
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2%;
+  line-height: 10px;
+  
+  border-bottom: 20px double GoldenRod;
+}
+
+.paraHDR
+{
+  font-family: 'Times New Roman', serif;
+  color: DarkCyan;
+  text-align: center;
+  font-size: 22px;
 }
 
 .paragraph
 {
-	font-size: 20x; 
-	border: 15px ridge LightSeaGreen;
-	margin-left: 10px;
+	font-family: 'Times New Roman', serif;
+	font-size: 20px; 
+	 
+	padding: 1%;
+	border: 15px ridge DarkCyan;
+	
+	margin: 2%;
 	text-align : start;
+}
+
+.image
+{
+  text-align: center;
+  img{ border: 20px outset BurlyWood;}
 }
 
 .git
 {
+	font-size: 25x;
+	font-family: OCR A Std, monospace;
 	text-align: end;
 }
