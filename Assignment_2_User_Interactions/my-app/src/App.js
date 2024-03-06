@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
+import funny_meme from "./images/funny_meme.jpg"
 import './App.css';
 
 function App() {
@@ -36,13 +37,13 @@ function App() {
 
 <div class = "image">
 
-<img src="funny_meme.jpg" alt="Funny meme go here" ></img>
+<img id='funny_meme' src={funny_meme} alt="Funny meme go here" ></img>
 
 </div>
 
 <div class = "git">
 
-<a href="https://github.com/RFIG99/Platform-Computing" target="_blank"> Welcome to my Platform Computing Github</a>
+<a href="https://github.com/RFIG99/Platform-Computing" target="_blank" rel="noreferrer"> Welcome to my Platform Computing Github</a>
 
 </div>
 
