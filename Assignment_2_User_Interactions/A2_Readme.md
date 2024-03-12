@@ -21,8 +21,7 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-
-# <img src="C:/Users/rjfig/Documents/Platform-Computing/Assignment_2_User_Interactions/Images/assighment 2 problem 4 tutorial.PNG" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+# <img src="/Images/assighment 2 problem 4 tutorial.PNG" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 <img src="" title='Example Video Walkthrough' width='' alt='output for part 4' />
 
