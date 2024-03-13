@@ -1,6 +1,6 @@
 # Metric Tracker
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+PROVIDE OVERVIEW OF ASSIGNMENT HEREZ
 
 Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
