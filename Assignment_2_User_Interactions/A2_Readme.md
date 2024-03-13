@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-![Employee data](Assignment_2_User_Interactions/Images/assighment 2 problem 4 tutorial.PNG? raw=true "Question four picture")
+![Question_4](/Image/assighment 2 problem 4 tutorial.png? raw=true "Question four picture")
 [comment]: <> (<img src="/Assignment_2_User_Interactions/Images/assighment 2 problem 4 tutorial.PNG" title='Question four picture' width='' alt='output for part 4' />)
 
 
