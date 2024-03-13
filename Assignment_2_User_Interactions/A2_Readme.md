@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Images/assighment 2 problem 4 tutorial.PNG"  alt='Output for part 4' title='Question four picture'/>
+<img src="assighment 2 problem 4 tutorial.PNG"  alt='Output for part 4' title='Question four picture'/>
 
 
 

@@ -15,7 +15,7 @@ def writeToCSV(filename : str, metrics : dict):
 def main():
 
     # Initialize browser
-    driver = webdriver.Chrome()
+    driver = webdriver.Firefox()
 
     # Navigate to your website 
     driver.get("http://localhost:3000/")
