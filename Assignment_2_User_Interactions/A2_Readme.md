@@ -21,7 +21,8 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-<img src="Images/Problem1&2.PNG"  alt='Output for part 4' title='Question 1 and 2 assighment 2 on github and my app with asssighment 1'/>
+<img src="Images/aboutme.PNG"  alt='about me' title='Question 2 assighment 2 on github'/>
+<img src="Images/Problem1&2.PNG"  alt='Output for part 4' title='Question 2 assighment 2 on github'/>
 <img src="Images/problem_4_steps.PNG"  alt='Output for part 4' title='Question four 8 steps notes'/>
 <img src="Images/assighment_tutorial.png"  alt='steps for part 4' title='Question four output picture'/>
 <img src="Images/python_metric.PNG"  alt='steps for part 4' title='Question five python code picture'/>
