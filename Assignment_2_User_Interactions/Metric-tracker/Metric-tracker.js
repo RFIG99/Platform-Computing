@@ -5,7 +5,7 @@ const assert = require("assert");
   let driver;
   
   try {
-    driver = await new Builder().forBrowser('chrome').build();
+    driver = await new Builder().forBrowser('Firefox').build();
     await driver.get('http://localhost:3000');
   
     let title = await driver.getTitle();

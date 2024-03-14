@@ -12,7 +12,7 @@ The following **required** features are completed:
 - [X] Transfer your About Me Page into a React App with screenshot of output in the Images folder(3 pt)
 - [X] Set up Selenium (2 pt)
 - [X] Write your first Selenium script with screenshot of output in the Images folder (4 pt)
-- [ ] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
+- [X] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
 
 The following **bonus** features are implemented:
 
@@ -21,14 +21,14 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-
-<img src="Images/assighment_tutorial.png"  alt='Output for part 4' title='Question four picture'/>
-
+<img src="Images/Problem1&2.PNG"  alt='Output for part 4' title='Question 1 and 2 assighment 2 on github and my app with asssighment 1'/>
+<img src="Images/problem_4_steps.PNG"  alt='Output for part 4' title='Question four 8 steps notes'/>
+<img src="Images/assighment_tutorial.png"  alt='steps for part 4' title='Question four output picture'/>
+<img src="Images/python_metric.PNG"  alt='steps for part 4' title='Question five python code picture'/>
 
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
-<ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
-</ul>
+
+I Could not get the  metric-tracker python code to work becasue the openssl needed to be updated however the metric-tracker code works as discussed in class.
+
