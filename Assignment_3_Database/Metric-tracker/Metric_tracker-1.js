@@ -56,8 +56,8 @@ async function main() {
          password: "Password12345",
          database: "assighment3"
         });
-    */
-    /*
+
+    
     con.connect(function(err) 
     {
         if (err) throw err;
