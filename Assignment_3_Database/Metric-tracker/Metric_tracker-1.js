@@ -1,6 +1,8 @@
 const { Builder } = require('selenium-webdriver');
 const firefox = require('selenium-webdriver/firefox');
 const fs = require('fs');
+//const mysql = require('mysql');
+//const mysql = require('mysql2');
 
 async function writeToCSV(filename, metrics) {
     const header = Object.keys(metrics);
@@ -46,15 +48,14 @@ async function main() {
     console.log(metrics);
     await writeToCSV('metrics.csv', metrics);
     
-    /*
-    var mysql = require('mysql');
+    var mysql = require('mysql2');
 
     var con = mysql.createConnection(
         {
-         host: "localhost",
+         host: "127.0.0.1",
          user: "root",
          password: "Password12345",
-         database: "assighment3"
+         database: "assighment_3"
         });
 
     
@@ -62,14 +63,18 @@ async function main() {
     {
         if (err) throw err;
         console.log("Connected!");
-        var sql = "INSERT INTO customers (Presence time (Seconds), Scrolling (PIxels)) VALUES ('Company Inc', 'Highway 37')";
-        con.query(sql, function (err, result) 
+        
+        var sql = "INSERT INTO metrics (time, Scrolling) VALUES ?"; 
+        const time = metrics['Presence time (Seconds)'];
+        const scroll = metrics['Scrolling (PIxels)'];
+        const records = time.map((time, index) => [time, scroll[index]]);
+
+        con.query(sql, [records], function (err, result) 
         {
           if (err) throw err;
           console.log("1 record inserted");
         });
       });
-      */
 }
 
 main();
