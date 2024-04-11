@@ -22,12 +22,12 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
-
+<img src="images/keywords.PNG" title='Keywords' width='' alt='keywords' />
+<img src="images/image.PNG" title='images' width='' alt='images' />
+<img src="images/link.PNG" title='link' width='' alt='link' />
+<img src="images/unique.PNG" title='unique' width='' alt='unique' />
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
+  <li>**created a unique user that checks bckground color and is also in python however i am unshure if the python code works since i do not have the ability to test it**</li>
 </ul>
