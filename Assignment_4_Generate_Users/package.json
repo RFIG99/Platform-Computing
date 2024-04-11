@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-router-dom": "^5.3.4",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
