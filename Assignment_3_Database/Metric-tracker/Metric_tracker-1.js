@@ -54,7 +54,7 @@ async function main() {
         {
          host: "127.0.0.1",
          user: "root",
-         password: "Password12345",
+         password: "",
          database: "assighment_3"
         });
 
